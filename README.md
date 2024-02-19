@@ -6,4 +6,4 @@ His research is focused on the development and evaluation of deep latent variabl
 
 You can check out my Linkedin at linkedin.com/in/regis-djaha-8275b4221.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=regiskonan&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=regiskonan&show_icons=true&theme=radical)
