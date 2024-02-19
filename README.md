@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/regis-djaha-8275b4221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/regis-djaha-8275b4221/" height="30" width="40" /></a>
-<a href="https://kaggle.com/regis djaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="regis djaha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/regis-djaha-8275b4221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="regis-djaha-8275b4221/" height="30" width="40" /></a>
+<a href="https://kaggle.com/regisdjaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="regisdjaha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
