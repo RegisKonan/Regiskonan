@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Regis Djaha</h1>
-<h3 align="center">Regis Djaha is a full-time Research Technician from Ivory Coast at the Basque Centre for Applied Mathematics (BCAM). He is a member of the Machine Learning group, working closely with Iñigo Urteaga, since September 2023.</h3>
+<h3 align="center">Regis Djaha is a full-time Research Technician from Ivory Coast at the Basque Center for Applied Mathematics (BCAM). He is a member of the Machine Learning group, working closely with Iñigo Urteaga, since September 2023.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regiskonan&label=Profile%20views&color=0e75b6&style=flat" alt="regiskonan" /> </p>
 
