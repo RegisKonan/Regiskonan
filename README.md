@@ -1,15 +1,48 @@
-<h1 align="center">Hi 👋, I'm Regis Djaha</h1> <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2A5DB0&center=true&vCenter=true&width=600&lines=Scientific+Machine+Learning;Physics-Informed+Neural+Networks;Deep+Generative+Models+%26+Bayesian+DL;Open+to+PhD+positions+(2027)" alt="Typing SVG" /></p> <h3 align="center">AI researcher in Scientific Machine Learning & Probabilistic Deep Learning · MSc student at the University of the Basque Country (UPV/EHU)</h3> <p align="center"> <a href="https://regiskonan.github.io/"><img src="https://img.shields.io/badge/Website-regiskonan.github.io-2a5db0?style=flat-square" alt="Website"/></a> <a href="https://scholar.google.com/citations?user=9HYn9mUAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a> <a href="https://orcid.org/0009-0004-5252-759X"><img src="https://img.shields.io/badge/ORCID-0009--0004--5252--759X-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a> <a href="https://linkedin.com/in/regisdjaha"><img src="https://img.shields.io/badge/LinkedIn-regisdjaha-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://kaggle.com/regisdjaha"><img src="https://img.shields.io/badge/Kaggle-regisdjaha-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a> </p>
-🎓 Currently pursuing an MSc in Computational Engineering and Intelligent Systems at UPV/EHU, Donostia-San Sebastián (2026–2027)
-🔬 Previously Research Technician in the Statistical Machine Learning group at the Basque Center for Applied Mathematics (BCAM) (2023–2024), working on Variational Autoencoders with Iñigo Urteaga
-🌍 Master's degrees from AMMI (AIMS Senegal), AIMS Rwanda and Université Félix Houphouët-Boigny (Côte d'Ivoire)
-🧠 Interests: physics-informed neural networks, neural operators, VAEs, Bayesian deep learning, uncertainty quantification, numerical methods for PDEs
-🚀 Open to PhD positions starting in 2027
-📫 Reach me at regiskonan056@gmail.com · 📄 More on my website
+<h1 align="center">Hi 👋, I'm Regis Djaha</h1>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2A5DB0&center=true&vCenter=true&width=600&lines=Scientific+Machine+Learning;Physics-Informed+Neural+Networks;Deep+Generative+Models+%26+Bayesian+DL;Open+to+PhD+positions+(2027)" alt="Typing SVG" /></p>
+<h3 align="center">AI researcher in Scientific Machine Learning & Probabilistic Deep Learning · MSc student at the University of the Basque Country (UPV/EHU)</h3>
+
+<p align="center">
+  <a href="https://regiskonan.github.io/"><img src="https://img.shields.io/badge/Website-regiskonan.github.io-2a5db0?style=flat-square" alt="Website"/></a>
+  <a href="https://scholar.google.com/citations?user=9HYn9mUAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://orcid.org/0009-0004-5252-759X"><img src="https://img.shields.io/badge/ORCID-0009--0004--5252--759X-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://linkedin.com/in/regisdjaha"><img src="https://img.shields.io/badge/LinkedIn-regisdjaha-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://kaggle.com/regisdjaha"><img src="https://img.shields.io/badge/Kaggle-regisdjaha-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+</p>
+
+- 🎓 Currently pursuing an **MSc in Computational Engineering and Intelligent Systems** at UPV/EHU, Donostia-San Sebastián (2026–2027)
+- 🔬 Previously **Research Technician** in the Statistical Machine Learning group at the **Basque Center for Applied Mathematics (BCAM)** (2023–2024), working on Variational Autoencoders with Iñigo Urteaga
+- 🌍 Master's degrees from **AMMI (AIMS Senegal)**, **AIMS Rwanda** and **Université Félix Houphouët-Boigny** (Côte d'Ivoire)
+- 🧠 Interests: physics-informed neural networks, neural operators, VAEs, Bayesian deep learning, uncertainty quantification, numerical methods for PDEs
+- 🚀 **Open to PhD positions starting in 2027**
+- 📫 Reach me at **regiskonan056@gmail.com** · 📄 More on my [website](https://regiskonan.github.io/)
+
 <h3 align="left">📌 Featured projects</h3>
-Project	Highlights
-Understanding AEs & VAEs	Effect of depth, latent dimension, prior and β on AEs/VAEs, 10-fold cross-validation (PyTorch)
-Cassava Disease Classification	ResNet-50 / EfficientNet-B0, 90% accuracy, 🥉 3rd on Kaggle
-Kernel Methods for DNA	Spectrum kernels and MKL, 6th on the private leaderboard
-Darcy's Law in Porous Embankments	Analytical seepage models (AIMS Rwanda thesis)
-Saltwater Intrusion	Anisotropic permeability and saltwater wedge advance: analysis of FreeFem++ finite element simulations (UFHB MSc thesis)
-<h3 align="left">🛠️ Languages and tools</h3> <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a> <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a> </p> <h3 align="left">📊 GitHub stats</h3> <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=regiskonan&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=regiskonan&layout=compact&hide_border=true" alt="Top languages" /> </p>
+
+| Project | Highlights |
+|---|---|
+| [**Understanding AEs & VAEs**](https://github.com/RegisKonan/ae_vae_understanding) | Effect of depth, latent dimension, prior and β on AEs/VAEs, 10-fold cross-validation (PyTorch) |
+| [**Cassava Disease Classification**](https://github.com/RegisKonan/-Cassava_report) | ResNet-50 / EfficientNet-B0, 90% accuracy, 🥉 3rd on Kaggle |
+| [**Kernel Methods for DNA**](https://github.com/RegisKonan/Kernel_Methods_report-) | Spectrum kernels and MKL, 6th on the private leaderboard |
+| [**Darcy's Law in Porous Embankments**](https://github.com/RegisKonan/AIMS_master_embankment) | Analytical seepage models (AIMS Rwanda thesis) |
+| [**Saltwater Intrusion**](https://github.com/RegisKonan/UFHB_master_Fluid_mechanics) | Anisotropic permeability and saltwater wedge advance: analysis of FreeFem++ finite element simulations (UFHB MSc thesis) |
+
+<h3 align="left">🛠️ Languages and tools</h3>
+
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">📊 GitHub stats</h3>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=regiskonan&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=regiskonan&layout=compact&hide_border=true" alt="Top languages" />
+</p>
