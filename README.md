@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Regis Djaha</h1>
+<h1 align="center">Hi 👋, I'm Regis Konan</h1>
 <h3 align="center">AI researcher in Scientific Machine Learning & Probabilistic Deep Learning · MSc student at the University of the Basque Country (UPV/EHU)</h3>
 
 <p align="center">
