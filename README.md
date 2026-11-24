@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Regis Djaha</h1>
+<h1 align="center">Hi 👋, I'm Regis Konan</h1>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2A5DB0&center=true&vCenter=true&width=600&lines=Scientific+Machine+Learning;Physics-Informed+Neural+Networks;Deep+Generative+Models+%26+Bayesian+DL;Open+to+PhD+positions+(2027)" alt="Typing SVG" /></p>
 <h3 align="center">AI researcher in Scientific Machine Learning & Probabilistic Deep Learning · MSc student at the University of the Basque Country (UPV/EHU)</h3>
 
